@@ -1,0 +1,17 @@
+section {
+    display: inline-block;
+    margin: auto;
+    text-align: justify;
+    width: 50%;
+    border: 1px solid #999;
+    height: 100%;
+    padding: 1em;
+    /*overflow-y: auto;*/
+    margin-left: 1%;
+    margin-top: 1%;
+    background-image: url("../../images/bubblegum.png");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: 90% 1%;
+    background-color: rgba(73, 158, 233, 0.753);
+}

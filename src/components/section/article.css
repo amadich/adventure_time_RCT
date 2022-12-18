@@ -1,0 +1,27 @@
+article {
+    overflow-y: auto;
+    display: table;
+    padding: 1em;
+    margin: auto;
+    width: 90%;
+    height: 90%;
+    margin-left: 1%;
+    margin-top: 30%;
+    background-color: aliceblue;
+}
+.all_inone{
+    overflow-y: auto;
+    max-height: 350px;
+}
+.Title_article {
+    font-weight: 700;
+    width: 100%;
+    background: url(../../images/CN_Logo_V.4.webp) no-repeat;
+    background-position: 100% center;
+    background-size: 10%;
+}
+#cmd_sapi {
+    border: 1px solid #222;
+    background-color: #222;
+    padding: 1em;
+}

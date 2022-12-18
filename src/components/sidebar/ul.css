@@ -1,0 +1,32 @@
+aside ul {
+    
+    margin-top: 90%;
+}
+aside li {
+    cursor: pointer;
+    transition: 0.4s;
+}
+aside li::marker {
+    content: '✔';
+    
+}
+
+
+#in_search_li {
+    display: inline-block;
+}
+.in_search {
+    display: inline-block;
+    border: 0.1px solid #999;
+    border-bottom: transparent;
+    border-radius: 5px;
+    padding-left: 10px;
+    outline: none;
+    background: url(../../images/search.png) no-repeat;
+    background-size: 40%;
+    background-position: 90% 90%;
+    background-color: whitesmoke;
+}
+
+.li_ul:hover {padding-left: 2em; color: aliceblue;} 
+    

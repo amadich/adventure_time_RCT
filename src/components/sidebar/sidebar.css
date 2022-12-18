@@ -1,0 +1,17 @@
+
+aside {
+    float: left;
+    display: inline-block;
+    background-image: url(../../images/ul.png);
+    background-position: 90% 1%;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-color: rgba(236, 149, 34, 0.651);
+    width: 20%;
+    border-right: 1px solid transparent;
+    height: 100vh;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    min-width: 100px;
+}
+
